@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.1",
+    "tsscmp": "^1.0.6",
     "aws-serverless-express": "^3.2.0",
     "body-parser": "^1.18.3",
     "compression": "^1.7.2",
